@@ -1,0 +1,12 @@
+1 git config --global user.email "ajay.suneja1993@gmail.com"
+2 git config --global user.name "Ajay Suneja"
+3
+4 Learn git Part -1 :
+6 1) git init --(For making a project git project use this command)
+7 2) git add [filename] || -A   --(For adding Files in git -A =All files)
+8 3) git status  ---(For checking status)
+4) git commit -m "msg"
+10 5) git remote add origin repoName
+11 6) git push origin master
+12 7) git clone repoName
+13 8) git pull origin master
