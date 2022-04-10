@@ -5,8 +5,8 @@
 6 1) git init --(For making a project git project use this command)
 7 2) git add [filename] || -A   --(For adding Files in git -A =All files)
 8 3) git status  ---(For checking status)
-4) git commit -m "msg"
-10 5) git remote add origin repoName
-11 6) git push origin master
+4) git commit -m "msg"   ---(For making snapsht that ,eans new file created and save it i.e. first snapshot, another chang then save next snapshot)
+10 5) git remote add origin repoName --(For link project to git in place of reponame 'URL of git of new  repository')
+11 6) git push origin master --(For pushing the files inside git)
 12 7) git clone repoName
 13 8) git pull origin master
